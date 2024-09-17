@@ -1,2 +1,2 @@
-# hello-_github
+# hello_github
 this is my first git repository
